@@ -127,7 +127,7 @@ Through this project, I gained experience with:
 - Evaluating machine learning models.
 - Interpreting results and identifying patterns in data.
 
----
+--- 
 
 **Thank you for visiting my project!** 😊
 
